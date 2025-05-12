@@ -1,2 +1,2 @@
 # pdf2pps
-convert pdf infr to pps presentation with key info
+Convert PDF information to PPS presentation with key info
